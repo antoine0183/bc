@@ -18,3 +18,18 @@ src/libs/Irrlicht/irrlicht-svn/lib/Linux/
 src/libs/Irrlicht/irrlicht-svn/source/Irrlicht/src/
 src/libs/Irrlicht/irrlicht-svn/source/Irrlicht/tmp/
 *.kdev4
+
+# additional compilation artifacts
+bin/bridgecommand-*
+bin/bridgecommand
+bin/CMake*
+bin/Makefile
+bin/cmake_install.cmake
+bin/compile_commands.json
+bin/controller
+bin/editor
+bin/iniEditor
+bin/launcher
+bin/multiplayerHub
+bin/repeater
+bin/libs
